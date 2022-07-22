@@ -1,4 +1,4 @@
-#PUEDE SHELL (Custom Shell)
+# PUEDE SHELL (Custom Shell)
 
 Custom Shell created following (this guide)[https://brennan.io/2015/01/16/write-a-shell-in-c/]
 
